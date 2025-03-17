@@ -37,7 +37,7 @@ In this assignment, apply RAG (Retrieval-Augmented Generation) techniques in Lan
 - `about-nca.pdf`: https://github.com/Nyeinchanaung/NLP-A6-talk-with-u/blob/main/about-nca.pdf  
 ## Evaluation
 ### question and answer
-
+Reslut: https://github.com/Nyeinchanaung/NLP-A6-talk-with-u/blob/main/result.json 
 ```json
 [
     {
