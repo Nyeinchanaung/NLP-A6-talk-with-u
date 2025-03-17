@@ -96,7 +96,6 @@ This Streamlit-based RAG (Retrieval-Augmented Generation) Chatbot enhances AI-ge
 
 ### Screenshots
 ![Webapp1](ss.png)
-![Webapp2](ss.gif)
 ## Key Observations:
 - Accurate Responses: The chatbot generates answers based on retrieved document content, improving factual accuracy.
 - Efficient Retrieval: FAISS enables fast and relevant document searches, enhancing response quality.
