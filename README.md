@@ -43,7 +43,6 @@ In this assignment, apply RAG (Retrieval-Augmented Generation) techniques in Lan
     {
         "question" : " How old are you ? ",
         "answer" : "Nyein Chan Aung is a Product Manager at Village Link, one of the subsidiaries of Myanma Awba. He is leading the development of a delivery social agricultural platform with registered farmers. He also leads the Youth Entrepreneurship Program (2022 - Mentor)"
-,
     },
     {
         "question" : "What is your highest level of education?",
@@ -80,7 +79,7 @@ In this assignment, apply RAG (Retrieval-Augmented Generation) techniques in Lan
      {
         "question" : "What specific research interests or academic goals do you hope to achieve during your time as a master’s student?",
         "answer" : "As a Master's student in Data Science and Artificial Intelligence, I am eager to explore and develop research interests that align with my passion for providing value to clients and users in the technical industries. Specifically, I hope to achieve the following academic goals:\n\n1. **Develop expertise in machine learning applications**: I aim to delve deeper into the field of machine learning and explore its applications in various domains, such as education, finance, and agriculture, to identify areas where I can make a meaningful impact.\n\n2. **Investigate the use of AI in data-driven decision-making**: I am interested in investigating the role of Artificial Intelligence in data-driven decision-making, with a focus on developing predictive models and algorithms that can provide actionable insights for clients and users.\n\n3. **Explore the intersection of data science and social impact**: I hope to explore ways in which data science and AI can be used to drive positive social impact, such as improving agricultural productivity, promoting financial inclusion, or enhancing educational outcomes.\n\n4. **Collaborate with industry partners**: I aim to collaborate with industry partners to gain practical experience and insights into the challenges and opportunities facing technical industries, and to develop solutions that can be scaled and implemented in real-world settings.\n\nThrough these research interests and academic goals, I hope to gain a deeper understanding of the technical industries, develop cutting-edge research skills, and contribute to the development of digital products that provide value to clients and users."
-    },
+    }
 ]
 ```
 ## Application
