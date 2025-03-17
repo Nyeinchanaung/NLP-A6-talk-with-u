@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# model file
+.vector-store/
+.offload/
+.faiss_index/
+vector-store/nlp_stanford/nlp.faiss
+/vector-store
+/offload
+/app/faiss_index
+.DS_Store
